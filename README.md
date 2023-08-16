@@ -1,0 +1,1 @@
+# jarc-ecom-service-registry-test
